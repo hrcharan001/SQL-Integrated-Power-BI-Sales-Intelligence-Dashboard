@@ -8,9 +8,9 @@ The objective of this dashboard is to analyze:
 - Shipment count & efficiency
 
 ## Project
-- <a href="">Click To View</a>
+- <a href="https://github.com/hrcharan001/SQL-Integrated-Power-BI-Sales-Intelligence-Dashboard/blob/main/PBI%20Linked%20with%20SQL-%20Project.pbix">Click To View</a>
 
-<img width="1868" height="636" alt="SS of Project" src="" />
+<img width="1868" height="636" alt="SS of Project" src="https://github.com/hrcharan001/SQL-Integrated-Power-BI-Sales-Intelligence-Dashboard/blob/main/Awesome%20Chocolates%20-%20Dashboard(SS).png" />
 
 ## Data Source & SQL Integration:
 - SQL–Power BI Connection
