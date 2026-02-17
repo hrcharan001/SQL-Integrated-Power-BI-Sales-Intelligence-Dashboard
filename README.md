@@ -7,14 +7,19 @@ The objective of this dashboard is to analyze:
 - Total Boxes sold
 - Shipment count & efficiency
 
+## Project
+- <a href="">Click To View</a>
+
+<img width="1868" height="636" alt="SS of Project" src="" />
+
 ## Data Source & SQL Integration:
-SQL–Power BI Connection
-Server: localhost
-Database: awesome chocolates
-Connection Mode: Import
+- SQL–Power BI Connection
+- Server: localhost
+- Database: awesome chocolates
+- Connection Mode: Import
 
 ## Custom SQL queries were used inside Power Query
-Example SQL query used:
+- Example SQL query used:
 select * 
 from geo g
 join sales s on g.GeoID = s.GeoID
