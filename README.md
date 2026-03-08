@@ -30,6 +30,6 @@ A dynamic Power BI Parameter was created to filter data at the SQL level.
 
 ## Project Highlights
 
-✔ SQL Database Integration
-✔ Dynamic Parameter Filtering
-✔ Data Modeling with Relationships
+- ✔ SQL Database Integration
+- ✔ Dynamic Parameter Filtering
+- ✔ Data Modeling with Relationships
